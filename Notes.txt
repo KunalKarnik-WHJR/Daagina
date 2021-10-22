@@ -1,0 +1,6 @@
+Can we use firebase database and use javascript only to add the products and host them?
+
+Action plan would go like, 
+    - Finalize database structure
+    - add code in template to iterate over the array
+    - 
